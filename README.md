@@ -4,6 +4,6 @@ Este Proyecto Integrador representa la aplicación práctica de los conocimiento
 La visualización de datos, a través de la creación de gráficos claros, informativos y estéticamente agradables, facilita la comunicación efectiva de los hallazgos y nos brinda un mejor entendimiento de los resultados y la elaboración de un informe completo y una presentación profesional.
 
 Integrantes: 
-Jimena Gomez 
-Ana Belén Delgado
+Jimena Gomez, 
+Ana Belén Delgado, 
 Andrea Dominguez
