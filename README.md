@@ -13,7 +13,7 @@ La visualización de datos, a través de la creación de gráficos claros, infor
 
 ### 👩‍💻 **Integrantes:**  
 - Jimena Gomez  
-- Ana Belén Delgado  
+- Ana Belén Delgado Egea
 - Andrea Dominguez  
 
 ---
